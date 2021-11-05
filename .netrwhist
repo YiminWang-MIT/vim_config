@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/yiminw/DL_software/new_cooker/darklight_plot'
-let g:netrw_dirhist_2='/Users/yiminw/.ssh'
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/yiminw/.ssh'
+let g:netrw_dirhist_5='/Users/yiminw/Documents/Fall2020/6.867/project/visualization'
+let g:netrw_dirhist_4='/Users/yiminw/Documents/Fall2020/8.492/week9/cosmological-perturbations-huy-paul-yimin/cosmo_perturbations'
+let g:netrw_dirhist_3='/Users/yiminw/Documents/Fall2020/8.492/code/friedmann-integrator-maxwellwym/.git/info'
+let g:netrw_dirhist_2='/Users/yiminw/Documents/thesis/projects/plots/thesis/data'
+let g:netrw_dirhist_1='/Users/yiminw/VirtualBox VMs'
